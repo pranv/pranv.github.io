@@ -15,6 +15,10 @@ The gravitational constant appears in Newton's law of universal gravitation, but
 
 Newton was not even interested in this. 
 
+The accuracy of the measured value of G has increased only modestly since the original Cavendish experiment. G is quite difficult to measure, because gravity is much weaker than other fundamental forces, and an experimental apparatus cannot be separated from the gravitational influence of other bodies. 
+
+that is the point of good theory. not repretive maximisation of marginal accuraciy improvemtns
+
 where G is the universal gravitational constant. This is a trained model because the gravitational constant G is determined by statistical inference over the results of a series of experiments that contain stochastic experimental error. It is also a deterministic (non-probabilistic) model because it states an exact functional relationship. I believe that Chomsky has no objection to this kind of statistical model. Rather, he seems to reserve his criticism for statistical models like Shannon's that have quadrillions of parameters, not just one or two.
 
 It is not about number of parameters. Netwon could have said force = sigma constatnts * masses and even with infinite paramters, this would give so much insight than regression,
