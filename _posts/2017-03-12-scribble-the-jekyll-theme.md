@@ -15,6 +15,8 @@ The gravitational constant appears in Newton's law of universal gravitation, but
 
 Newton was not even interested in this. 
 
+Its a fucking law that has never been broken. In contrast, DNNs have all sorts of faults.
+
 The accuracy of the measured value of G has increased only modestly since the original Cavendish experiment. G is quite difficult to measure, because gravity is much weaker than other fundamental forces, and an experimental apparatus cannot be separated from the gravitational influence of other bodies. 
 
 that is the point of good theory. not repretive maximisation of marginal accuraciy improvemtns
