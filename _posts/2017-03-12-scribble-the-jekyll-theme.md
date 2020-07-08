@@ -1,6 +1,6 @@
 ---
-title: 
-date: 
+title: A
+date: B
 ---
 
 
