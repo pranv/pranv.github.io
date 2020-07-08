@@ -1,6 +1,6 @@
 ---
-title: On Peter Norvig's Critique of Noam Chomsky's Critique of Statistical Methods
-date: 2017-06-26 22:00:00
+title: 
+date: 
 ---
 
 
